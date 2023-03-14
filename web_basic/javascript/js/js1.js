@@ -7,9 +7,9 @@
 // let name2 = prompt("이름을 입력해주세요");
 // console.log(name2);
 let test;
-console.log(test)
+console.log(test);
 
-let num1 = parseInt(prompt("첫 번째 수"))                    
-let num2 = parseInt(prompt("두 번째 수"))
+let num1 = parseInt(prompt("첫 번째 수"));                    
+let num2 = parseInt(prompt("두 번째 수"));
 
-console.log(num1 + num2)
+console.log(num1 + num2);
